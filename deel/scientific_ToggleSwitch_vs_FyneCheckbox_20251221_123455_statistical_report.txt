@@ -1,0 +1,36 @@
+
+============================================================
+METRIC: FPS
+============================================================
+Test Method: Mann-Whitney U test
+TS: mean=61.9355, std=1.4354, n=31
+FC: mean=61.9000, std=1.4457, n=30
+Mean Difference: 0.035484
+95% Confidence Interval: [-0.687673, 0.758641]
+p-value: 0.9308986437 (NOT SIGNIFICANT)
+Effect Size (Standardized Mean Difference): 0.0246 (negligible)
+CONCLUSION: No statistically significant difference
+
+============================================================
+METRIC: Memory Usage (MB)
+============================================================
+Test Method: Mann-Whitney U test
+TS: mean=125.6865, std=0.0926, n=31
+FC: mean=127.9843, std=0.3221, n=30
+Mean Difference: -2.297882
+95% Confidence Interval: [-2.417664, -2.178099]
+p-value: 0.0000000000 (SIGNIFICANT)
+Effect Size (Standardized Mean Difference): -1.9596 (large)
+CONCLUSION: Statistically significant difference (lower by 1.80%)
+
+============================================================
+METRIC: CPU Usage (%)
+============================================================
+Test Method: Independent t-test
+TS: mean=5.4010, std=0.0215, n=31
+FC: mean=5.4807, std=0.0287, n=30
+Mean Difference: -0.079699
+95% Confidence Interval: [-0.092460, -0.066938]
+p-value: 0.0000000000 (SIGNIFICANT)
+Effect Size (Cohen's d): -3.1499 (large)
+CONCLUSION: Statistically significant difference (lower by 1.45%)

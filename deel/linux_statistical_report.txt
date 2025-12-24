@@ -1,0 +1,40 @@
+================================================================================
+PERFORMANCE COMPARISON: ParticleButton vs FyneButton
+TEST ENVIRONMENT: Linux, 32 CPU cores
+================================================================================
+
+============================================================
+METRIC: FPS
+============================================================
+Test Method: Mann-Whitney U test
+ParticleButton: mean=61.9000, std=1.4457, n=30
+FyneButton: mean=61.9355, std=1.4354, n=31
+Mean Difference: -0.035484
+95% Confidence Interval: [-0.758641, 0.687673]
+p-value: 0.9308986437 (NOT SIGNIFICANT)
+Effect Size (Standardized Mean Difference): -0.0246 (negligible)
+CONCLUSION: No statistically significant difference
+
+============================================================
+METRIC: Memory Usage (MB)
+============================================================
+Test Method: Mann-Whitney U test
+ParticleButton: mean=61.1547, std=0.1784, n=30
+FyneButton: mean=65.3552, std=0.1489, n=31
+Mean Difference: -4.200495
+95% Confidence Interval: [-4.283102, -4.117887]
+p-value: 0.0000000000 (SIGNIFICANT)
+Effect Size (Standardized Mean Difference): -1.9942 (large)
+CONCLUSION: Statistically significant difference (ParticleButton is lower by 6.43%)
+
+============================================================
+METRIC: CPU Usage (%)
+============================================================
+Test Method: Independent t-test
+ParticleButton: mean=15.9263, std=0.0259, n=30
+FyneButton: mean=15.8458, std=0.0272, n=31
+Mean Difference: 0.080527
+95% Confidence Interval: [0.067202, 0.093851]
+p-value: 0.0000000000 (SIGNIFICANT)
+Effect Size (Cohen's d): 3.0311 (large)
+CONCLUSION: Statistically significant difference (ParticleButton is higher by 0.51%)

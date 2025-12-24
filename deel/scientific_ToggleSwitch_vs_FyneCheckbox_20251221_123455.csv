@@ -1,0 +1,131 @@
+timestamp,component_name,component_type,test_scenario,fps,memory_usage_mb,memory_alloc_mb,num_gc,gc_time_ms,cpu_percent,render_time_ms,update_time_ms,goroutines,num_cores
+2025-12-21 12:34:49.973,ToggleSwitch,custom,toggle_animation,60.00,125.18,660.91,19,1.65,5.43,16.67,5.00,19,16
+2025-12-21 12:34:50.071,ToggleSwitch,custom,toggle_animation,60.00,125.69,661.43,19,1.65,5.44,16.67,5.00,19,16
+2025-12-21 12:34:50.171,ToggleSwitch,custom,toggle_animation,60.00,125.70,661.43,19,1.65,5.43,16.67,5.00,19,16
+2025-12-21 12:34:50.271,ToggleSwitch,custom,toggle_animation,60.00,125.70,661.43,19,1.65,5.43,16.67,5.00,19,16
+2025-12-21 12:34:50.371,ToggleSwitch,custom,toggle_animation,60.00,125.70,661.43,19,1.65,5.44,16.67,5.00,19,16
+2025-12-21 12:34:50.471,ToggleSwitch,custom,toggle_animation,60.00,125.70,661.43,19,1.65,5.43,16.67,5.00,19,16
+2025-12-21 12:34:50.571,ToggleSwitch,custom,toggle_animation,60.00,125.70,661.43,19,1.65,5.43,16.67,5.00,19,16
+2025-12-21 12:34:50.671,ToggleSwitch,custom,toggle_animation,60.00,125.70,661.43,19,1.65,5.42,16.67,5.00,19,16
+2025-12-21 12:34:50.771,ToggleSwitch,custom,toggle_animation,60.00,125.70,661.43,19,1.65,5.41,16.67,5.00,19,16
+2025-12-21 12:34:50.871,ToggleSwitch,custom,toggle_animation,60.00,125.70,661.43,19,1.65,5.41,16.67,5.00,19,16
+2025-12-21 12:34:50.971,ToggleSwitch,custom,toggle_animation,60.00,125.70,661.43,19,1.65,5.40,16.67,5.00,19,16
+2025-12-21 12:34:51.071,ToggleSwitch,custom,toggle_animation,63.00,125.70,661.43,19,1.65,5.39,15.87,4.76,19,16
+2025-12-21 12:34:51.171,ToggleSwitch,custom,toggle_animation,63.00,125.70,661.43,19,1.65,5.39,15.87,4.76,19,16
+2025-12-21 12:34:51.271,ToggleSwitch,custom,toggle_animation,63.00,125.70,661.43,19,1.65,5.38,15.87,4.76,19,16
+2025-12-21 12:34:51.371,ToggleSwitch,custom,toggle_animation,63.00,125.70,661.43,19,1.65,5.39,15.87,4.76,19,16
+2025-12-21 12:34:51.471,ToggleSwitch,custom,toggle_animation,63.00,125.70,661.43,19,1.65,5.40,15.87,4.76,19,16
+2025-12-21 12:34:51.571,ToggleSwitch,custom,toggle_animation,63.00,125.70,661.43,19,1.65,5.40,15.87,4.76,19,16
+2025-12-21 12:34:51.671,ToggleSwitch,custom,toggle_animation,63.00,125.70,661.43,19,1.65,5.39,15.87,4.76,19,16
+2025-12-21 12:34:51.771,ToggleSwitch,custom,toggle_animation,63.00,125.70,661.43,19,1.65,5.40,15.87,4.76,19,16
+2025-12-21 12:34:51.871,ToggleSwitch,custom,toggle_animation,63.00,125.70,661.43,19,1.65,5.40,15.87,4.76,19,16
+2025-12-21 12:34:51.971,ToggleSwitch,custom,toggle_animation,63.00,125.71,661.44,19,1.65,5.39,15.87,4.76,19,16
+2025-12-21 12:34:52.071,ToggleSwitch,custom,toggle_animation,63.00,125.71,661.44,19,1.65,5.40,15.87,4.76,19,16
+2025-12-21 12:34:52.171,ToggleSwitch,custom,toggle_animation,63.00,125.71,661.44,19,1.65,5.40,15.87,4.76,19,16
+2025-12-21 12:34:52.271,ToggleSwitch,custom,toggle_animation,63.00,125.71,661.44,19,1.65,5.39,15.87,4.76,19,16
+2025-12-21 12:34:52.371,ToggleSwitch,custom,toggle_animation,63.00,125.71,661.44,19,1.65,5.38,15.87,4.76,19,16
+2025-12-21 12:34:52.471,ToggleSwitch,custom,toggle_animation,63.00,125.71,661.44,19,1.65,5.38,15.87,4.76,19,16
+2025-12-21 12:34:52.571,ToggleSwitch,custom,toggle_animation,63.00,125.71,661.44,19,1.65,5.37,15.87,4.76,19,16
+2025-12-21 12:34:52.673,ToggleSwitch,custom,toggle_animation,63.00,125.71,661.44,19,1.65,5.36,15.87,4.76,19,16
+2025-12-21 12:34:52.771,ToggleSwitch,custom,toggle_animation,63.00,125.71,661.44,19,1.65,5.36,15.87,4.76,19,16
+2025-12-21 12:34:52.871,ToggleSwitch,custom,toggle_animation,63.00,125.71,661.44,19,1.65,5.39,15.87,4.76,19,16
+2025-12-21 12:34:52.971,ToggleSwitch,custom,toggle_animation,63.00,125.71,661.44,19,1.65,5.40,15.87,4.76,19,16
+2025-12-21 12:34:52.977,FyneCheckbox,native,toggle_animation,60.00,126.25,661.98,19,1.65,5.40,16.67,5.00,19,16
+2025-12-21 12:34:53.072,FyneCheckbox,native,toggle_animation,60.00,128.04,663.77,19,1.65,5.43,16.67,5.00,19,16
+2025-12-21 12:34:53.172,FyneCheckbox,native,toggle_animation,60.00,128.04,663.77,19,1.65,5.46,16.67,5.00,19,16
+2025-12-21 12:34:53.272,FyneCheckbox,native,toggle_animation,60.00,128.04,663.77,19,1.65,5.46,16.67,5.00,19,16
+2025-12-21 12:34:53.372,FyneCheckbox,native,toggle_animation,60.00,128.04,663.77,19,1.65,5.45,16.67,5.00,19,16
+2025-12-21 12:34:53.472,FyneCheckbox,native,toggle_animation,60.00,128.04,663.77,19,1.65,5.44,16.67,5.00,19,16
+2025-12-21 12:34:53.572,FyneCheckbox,native,toggle_animation,60.00,128.04,663.77,19,1.65,5.46,16.67,5.00,19,16
+2025-12-21 12:34:53.672,FyneCheckbox,native,toggle_animation,60.00,128.04,663.77,19,1.65,5.45,16.67,5.00,19,16
+2025-12-21 12:34:53.772,FyneCheckbox,native,toggle_animation,60.00,128.04,663.77,19,1.65,5.48,16.67,5.00,19,16
+2025-12-21 12:34:53.872,FyneCheckbox,native,toggle_animation,60.00,128.04,663.77,19,1.65,5.51,16.67,5.00,19,16
+2025-12-21 12:34:53.972,FyneCheckbox,native,toggle_animation,60.00,128.04,663.77,19,1.65,5.51,16.67,5.00,19,16
+2025-12-21 12:34:54.073,FyneCheckbox,native,toggle_animation,63.00,128.04,663.77,19,1.65,5.52,15.87,4.76,19,16
+2025-12-21 12:34:54.172,FyneCheckbox,native,toggle_animation,63.00,128.04,663.77,19,1.65,5.53,15.87,4.76,19,16
+2025-12-21 12:34:54.272,FyneCheckbox,native,toggle_animation,63.00,128.04,663.77,19,1.65,5.52,15.87,4.76,19,16
+2025-12-21 12:34:54.372,FyneCheckbox,native,toggle_animation,63.00,128.04,663.77,19,1.65,5.52,15.87,4.76,19,16
+2025-12-21 12:34:54.472,FyneCheckbox,native,toggle_animation,63.00,128.04,663.77,19,1.65,5.51,15.87,4.76,19,16
+2025-12-21 12:34:54.572,FyneCheckbox,native,toggle_animation,63.00,128.04,663.77,19,1.65,5.50,15.87,4.76,19,16
+2025-12-21 12:34:54.672,FyneCheckbox,native,toggle_animation,63.00,128.04,663.78,19,1.65,5.50,15.87,4.76,19,16
+2025-12-21 12:34:54.772,FyneCheckbox,native,toggle_animation,63.00,128.05,663.78,19,1.65,5.49,15.87,4.76,19,16
+2025-12-21 12:34:54.872,FyneCheckbox,native,toggle_animation,63.00,128.05,663.78,19,1.65,5.48,15.87,4.76,19,16
+2025-12-21 12:34:54.972,FyneCheckbox,native,toggle_animation,63.00,128.05,663.78,19,1.65,5.48,15.87,4.76,19,16
+2025-12-21 12:34:55.072,FyneCheckbox,native,toggle_animation,63.00,128.05,663.78,19,1.65,5.47,15.87,4.76,19,16
+2025-12-21 12:34:55.172,FyneCheckbox,native,toggle_animation,63.00,128.05,663.78,19,1.65,5.48,15.87,4.76,19,16
+2025-12-21 12:34:55.272,FyneCheckbox,native,toggle_animation,63.00,128.05,663.78,19,1.65,5.48,15.87,4.76,19,16
+2025-12-21 12:34:55.372,FyneCheckbox,native,toggle_animation,63.00,128.05,663.78,19,1.65,5.49,15.87,4.76,19,16
+2025-12-21 12:34:55.472,FyneCheckbox,native,toggle_animation,63.00,128.05,663.78,19,1.65,5.48,15.87,4.76,19,16
+2025-12-21 12:34:55.572,FyneCheckbox,native,toggle_animation,63.00,128.05,663.78,19,1.65,5.48,15.87,4.76,19,16
+2025-12-21 12:34:55.672,FyneCheckbox,native,toggle_animation,63.00,128.05,663.78,19,1.65,5.47,15.87,4.76,19,16
+2025-12-21 12:34:55.773,FyneCheckbox,native,toggle_animation,63.00,128.05,663.78,19,1.65,5.48,15.87,4.76,19,16
+2025-12-21 12:34:55.872,FyneCheckbox,native,toggle_animation,63.00,128.05,663.78,19,1.65,5.49,15.87,4.76,19,16
+
+=== 性能测试摘要 ===
+测试名称,ToggleSwitch_vs_FyneCheckbox
+测试类型,科学对比测试
+
+=== 自定义组件性能 ===
+组件类型,custom
+样本数量,31
+平均FPS,61.94
+FPS范围,60.00-63.00
+FPS标准差,1.44
+FPS变异系数,2.3%
+
+平均内存(MB),125.69
+内存范围,125.18-125.71
+内存标准差,0.09
+内存变异系数,0.1%
+
+平均CPU(%),5.40
+CPU范围,5.36-5.44
+CPU标准差,0.02
+CPU变异系数,0.4%
+
+=== 原生组件性能 ===
+组件类型,native
+样本数量,30
+平均FPS,61.90
+FPS范围,60.00-63.00
+FPS标准差,1.45
+FPS变异系数,2.3%
+
+平均内存(MB),127.99
+内存范围,126.25-128.05
+内存标准差,0.32
+内存变异系数,0.2%
+
+平均CPU(%),5.48
+CPU范围,5.40-5.53
+CPU标准差,0.03
+CPU变异系数,0.5%
+
+=== 性能对比分析 ===
+FPS比率,1.001
+FPS差异,0.1%
+
+内存比率,0.982
+内存差异,-1.8%
+
+CPU比率,0.985
+CPU差异,-1.5%
+
+综合性能评分,98.7/100
+
+=== 显著性分析 ===
+FPS显著性,false
+FPS置信度,low
+内存显著性,true
+内存置信度,very high
+CPU显著性,true
+CPU置信度,very high
+
+=== 测试结论 ===
+结论,✅ 性能优秀 (98.7分)。自定义控件在保持视觉效果的同时，性能表现优于或接近原生控件。
+
+=== 系统信息 ===
+Go版本,go1.25.4
+CPU核心数,16
+操作系统,windows
+系统架构,amd64

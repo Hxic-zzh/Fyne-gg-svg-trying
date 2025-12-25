@@ -3,7 +3,63 @@
 > 基于 Fyne 的纯 Go 实现，零 CGo 依赖，可直接 `go run` / `go build`。
 > 暂时展示页，过年去完善
 ---
-go.mod
+文件夹结构：（作者电脑本地文件夹2025-12-18-ggAndPng）
+```
+2025-12-18-ggAndPng/
+├── Main.go
+├── main_benchmark.go
+├── main_check.go
+├── main_input.go
+├── main_menu.go
+├── main_pages.go
+├── main_steaptab.go
+├── main_toggle.go
+├── build.bat
+├── start.bat
+├── go.mod
+├── go.sum
+├── dist/
+│   ├── Hxic-Windows64-Console.exe
+│   └── Hxic-Windows64-GUI.exe
+├── benchmark_results/
+│   ├── comparisons/
+│   ├── scientific/
+│   ├── batch_summaries/
+│   └── ...
+├── images/
+│   ├── *.png
+│   └── pigProcessBar/
+│       ├── pigRun.gif
+│       ├── background/
+│       └── pigRunPng/
+├── svg/
+│   ├── 1.svg
+│   ├── 2.svg
+│   └── ...
+├── ttf/
+│   ├── chinese.ttf
+│   ├── english.ttf
+│   └── toggle_switch.ttf
+└── tools/
+    ├── border_button.go
+    ├── custom_list.go
+    ├── googleStyleInput.go
+    ├── material_input_theme.go
+    ├── materialCheckbox.go
+    ├── particle_button.go
+    ├── pigProcessBar.go
+    ├── steptabs.go
+    ├── toggle_switch.go
+    └── benchmark/
+        ├── csv_exporter.go
+        ├── fps_calculator.go
+        ├── metrics.go
+        ├── monitor.go
+        └── utils.go
+```
+---
+
+**go.mod**
 ```
 module 2025-12-18-ggAndPng
 

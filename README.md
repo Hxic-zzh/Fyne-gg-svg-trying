@@ -72,7 +72,7 @@ require (
 | 隔离容器 | `WrapWithIsolationContainer() fyne.CanvasObject` | 防刷新污染，推荐外层使用 |
 
 示范：
-go```
+```
 import (
     "image/color"
     "2025-12-18-ggAndPng/tools"

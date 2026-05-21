@@ -1,3 +1,5 @@
+# 请注意，作者很懒，源码改过了，上传到最新的release了，请不要git clone
+
 # 自定义 UI 控件库 API 速查
 
 > 基于 Fyne 的纯 Go 实现，零 CGo 依赖，可直接 `go run` / `go build`。
